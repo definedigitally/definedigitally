@@ -36,7 +36,7 @@ We have successfully built and optimized **Shopify stores, Web3 platforms, and c
 ## 🤝 Let's Build Together
 Are you looking to build an innovative **e-commerce platform, Web3 application, or custom web solution**? Let’s work together to turn your vision into reality!
 
-📩 **Get in Touch:** [hello@definedigitally.com](mailto:hello@definedigitally.com)
+📩 **Get in Touch:** [definedigitally@gmail.com](mailto:definedigitally@gmail.com)
 🌐 **Website:** [www.definedigitally.com](https://www.definedigitally.com)
 🔗 **LinkedIn:** [Define Digitally](https://www.linkedin.com/company/define-digitally)
 
