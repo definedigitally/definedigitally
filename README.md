@@ -34,14 +34,14 @@ We have successfully built and optimized **Shopify stores, Web3 platforms, and c
 - **Enterprise Web Applications** streamlining business operations.
 
 ## 📊 GitHub Stats
-[![DefineDigitally's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefineDigitally&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/DefineDigitally)
+[![DefineDigitally's GitHub stats](https://github-readme-stats.vercel.app/api?username=definedigitally&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/definedigitally)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DefineDigitally&theme=dark&hide_border=false)](https://github.com/DefineDigitally)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DefineDigitally&theme=dark&hide_border=false)](https://github.com/definedigitally)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DefineDigitally&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/DefineDigitally)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=definedigitally&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/definedigitally)
 
 ## 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=DefineDigitally&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/DefineDigitally)
+[![](https://github-contributor-stats.vercel.app/api?username=definedigitally&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/definedigitally)
 
 ## 🤝 Let's Build Together
 Are you looking to build an innovative **e-commerce platform, Web3 application, or custom web solution**? Let’s work together to turn your vision into reality!
