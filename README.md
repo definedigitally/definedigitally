@@ -10,10 +10,10 @@ At **Define Digitally**, we specialize in crafting cutting-edge digital solution
 - **API Development & Integrations**: Seamless third-party integrations, including payment gateways, CRMs, and marketing tools.
 
 ## 🌟 Why Choose Define Digitally?
-✔️ **Expert Shopify Development** – From custom themes to advanced features, we optimize your e-commerce store for conversions.
-✔️ **Agile Full Stack Development** – Utilizing the latest web technologies for fast, secure, and scalable applications.
-✔️ **Customer-Centric Approach** – We focus on user experience, ensuring seamless interactions across platforms.
-✔️ **End-to-End Support** – From ideation to deployment, we provide ongoing maintenance and support to help your business thrive.
+- ✔️ **Expert Shopify Development** – From custom themes to advanced features, we optimize your e-commerce store for conversions.
+- ✔️ **Agile Full Stack Development** – Utilizing the latest web technologies for fast, secure, and scalable applications.
+- ✔️ **Customer-Centric Approach** – We focus on user experience, ensuring seamless interactions across platforms.
+- ✔️ **End-to-End Support** – From ideation to deployment, we provide ongoing maintenance and support to help your business thrive.
 
 ## 🛠️ Tech Stack & Tools
 <div id="badges">
@@ -32,6 +32,16 @@ We have successfully built and optimized **Shopify stores, Web3 platforms, and c
 ### Some of Our Projects:
 - **E-commerce Storefronts** with custom checkout experiences.
 - **Enterprise Web Applications** streamlining business operations.
+
+## 📊 GitHub Stats
+[![DefineDigitally's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefineDigitally&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/DefineDigitally)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DefineDigitally&theme=dark&hide_border=false)](https://github.com/DefineDigitally)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DefineDigitally&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/DefineDigitally)
+
+## 🔝 Top Contributed Repo
+[![](https://github-contributor-stats.vercel.app/api?username=DefineDigitally&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/DefineDigitally)
 
 ## 🤝 Let's Build Together
 Are you looking to build an innovative **e-commerce platform, Web3 application, or custom web solution**? Let’s work together to turn your vision into reality!
